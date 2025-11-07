@@ -45,13 +45,11 @@ Privacidad garantizada: se eliminan nombres de usuario, host o etiquetas reales.
 
 Privacidad y buenas prácticas
 
-No subas datos reales de cliente.
-
 Usa logs anonimizados o sintéticos para ejemplos públicos.
 
 Las etiquetas CR- o PF- pueden sustituirse por códigos genéricos (ej. CR-001 → TASK-001).
 
-No compartas rutas internas ni servidores reales.
+No se comparten rutas internas ni servidores reales.
 
 Autor
 
